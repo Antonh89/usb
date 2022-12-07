@@ -1,0 +1,14 @@
+{
+  "name": "usb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "usb.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "usb": "^2.5.2"
+  }
+}
